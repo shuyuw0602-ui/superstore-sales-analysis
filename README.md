@@ -9,7 +9,7 @@ End-to-end data analysis project analyzing 9,994 orders from a US retailer (2014
 [View Interactive Dashboard](https://public.tableau.com/app/profile/shuyu.wang8034/viz/SuperstoreSalesAnalysis_17798371260740/1?publish=yes)
 
 ## Power BI Dashboard
-![Power BI Dashboard](powerbi_dashboard.png)
+![Power BI Dashboard](powerbi_dashboard.PNG)
 
 ## Dataset
 - **Source:** Kaggle Superstore Sales Dataset
